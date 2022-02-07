@@ -1,4 +1,3 @@
-tutorial-env
 .env
-.vscode
-__pycache__
+.vscode/
+tutorial-env/
